@@ -1,4 +1,4 @@
-# Pinard02 (corrigé) ENTITE VIN AVEC CLE PRIMAIRE AUTO-GENEREE
+# Pinard02 (corrigé) ENTITY VIN AVEC CLE PRIMAIRE AUTO-GENEREE
 
 ![pinard02](images/pinard01.png)
 
@@ -218,8 +218,8 @@ ALTER TABLE `vin`
   MODIFY `CODEPRODUIT` int(11) NOT NULL AUTO_INCREMENT;
 ```
 
-- Dans votre navigateur préféré saisissez l'url ou cliquez dessus [http://localhost:8080/accueil](http://localhost:8080/accueil)
+- Dans votre navigateur préféré saisissez l'url ou cliquez sur ce lien [http://localhost:8080/accueil](http://localhost:8080/accueil)
 
-[Retour vers les exercices ](https://pbouget.github.io/cours/framework-back/1-jpa-orm/mapping-orm.html)
+[Retour vers les exercices](https://pbouget.github.io/cours/framework-back/1-jpa-orm/mapping-orm.html)
 
 [Retour vers le cours complet](https://pbouget.github.io/cours/)
