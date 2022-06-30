@@ -220,6 +220,6 @@ ALTER TABLE `vin`
 
 - Dans votre navigateur préféré saisissez l'url ou cliquez dessus [http://localhost:8080/accueil](http://localhost:8080/accueil)
 
-[Retour vers le cours ORM](https://github.com/pbouget/cours/framework-back/1-jpa-orm)
+[Retour vers les exercices ](https://pbouget.github.io/cours/framework-back/1-jpa-orm/mapping-orm.html)
 
-[Retour vers le cours complet](https://github.com/pbouget/cours/)
+[Retour vers le cours complet](https://pbouget.github.io/cours/)
