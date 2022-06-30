@@ -218,4 +218,4 @@ ALTER TABLE `vin`
   MODIFY `CODEPRODUIT` int(11) NOT NULL AUTO_INCREMENT;
 ```
 
-[Retour vers les autres exercices](../cours/framework-back/1-jpa-orm/mapping-orm.md)
+[Retour vers les autres exercices](https://github.com/pbouget/cours/framework-back/1-jpa-orm/mapping-orm.md)
