@@ -195,7 +195,7 @@ public class PinardController {
 
 ```
 
-- lancez SpringBoot et observez la table
+- lancez *Spring Boot App* avec *Run As* et observez la structure de la table.
 
 - Voici la table Vin qui sera générée :
 
@@ -218,4 +218,8 @@ ALTER TABLE `vin`
   MODIFY `CODEPRODUIT` int(11) NOT NULL AUTO_INCREMENT;
 ```
 
-[Retour vers les autres exercices](https://github.com/pbouget/cours/framework-back/1-jpa-orm/mapping-orm.md)
+- Dans votre navigateur préféré saisissez l'url ou cliquez dessus [http://localhost:8080/accueil](http://localhost:8080/accueil)
+
+[Retour vers le cours ORM](https://github.com/pbouget/cours/framework-back/1-jpa-orm)
+
+[Retour vers le cours complet](https://github.com/pbouget/cours/)
