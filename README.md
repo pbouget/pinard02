@@ -1,6 +1,6 @@
 # Pinard02 (corrigé) ENTITE VIN AVEC CLE PRIMAIRE AUTO-GENEREE
 
-![pinard02](../cours/framework-back/1-jpa-orm/images/pinard01.png)
+![pinard02](images/pinard01.png)
 
 Objectif : écrire une entité **Vin** avec une clef auto-incrémentée par MySQL avec l'annotation **GeneratedType.IDENTITY**
 
